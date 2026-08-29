@@ -13,3 +13,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284068-accd66f1-4f0d-4f55-bf3f-9e9b7d9d0b2b.gif" width="100%">
 </p>
+
+# 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vidheendu&theme=tokyo-night&hide_border=true" />
+</div>
+---
