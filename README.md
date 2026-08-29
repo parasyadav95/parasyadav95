@@ -3,11 +3,10 @@
 
 <h1 align="center">Hi , I'm Paras Yadav </h1>
 
+🌟 About Me
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real+World+Projects;Open+Source+Contributor;Always+Learning" />
-</p>
+-  Currently learning **Full Stack Development & AI**
+-  Interested in **Real-world Projects**
 
 <!-- Animated Divider -->
 <p align="center">
