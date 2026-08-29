@@ -14,9 +14,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284068-accd66f1-4f0d-4f55-bf3f-9e9b7d9d0b2b.gif" width="100%">
 </p>
 
-# 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vidheendu&theme=tokyo-night&hide_border=true" />
-</div>
----
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
+<h3 align="center">⭐️ Thanks for visiting my profile ⭐️</h3>
